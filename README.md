@@ -68,7 +68,7 @@ First week of January: 1,500 × 7 ≈ $10,000 – $11,000.
 
 Estimated Sales for First Days of January 2019
 
-Day        	Sales ($)
+Day         	Sales ($)
 
 Dec 31, 2018	  2,773
 
