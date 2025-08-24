@@ -67,15 +67,20 @@ Number of days in January: 31 → Daily average: $1,450 – $1,600.
 First week of January: 1,500 × 7 ≈ $10,000 – $11,000.
 
 Estimated Sales for First Days of January 2019
-Day	Sales ($)
-Dec 31, 2018	2,773
-Jan 1	1,600
-Jan 2	1,560
-Jan 3	1,540
-Jan 4	1,470
-Jan 5	1,480
-Jan 6	1,490
 
+Day        	Sales ($)
 
-100.0%
-Footer
+Dec 31, 2018	  2,773
+
+Jan 1         	1,600
+
+Jan 2	          1,560
+
+Jan 3	          1,540
+
+Jan 4         	1,470
+
+Jan 5	          1,480
+
+Jan 6	          1,490
+
